@@ -6,6 +6,14 @@ This repository presents hands-on work in data exploration, cleaning, statistica
 
 > **What I enjoy building:** workflows that turn raw data into clear, trustworthy information people can use.
 
+## Case studies & new R project
+
+- [Brazilian E-Commerce / Olist — R analytics, ggplot2 and Quarto](https://github.com/ThiagoSQA/olist-r-analytics)
+- [Olist case study (problem, solutions, limitations and next steps)](https://github.com/ThiagoSQA/olist-r-analytics/blob/main/CASE_STUDY.md)
+- [SQL and Python project case studies](./CASE_STUDIES.md)
+
+These case studies use the Google Data Analytics portfolio checklist and distinguish verified code from proposed next steps.
+
 ## Featured projects
 
 | Project | Tools | What it demonstrates | Files |
